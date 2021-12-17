@@ -1,3 +1,2 @@
 # crowdconnected-geo-ios
-
-A description of this package.
+CrowdConnectedGeo iOS native XCFramework
