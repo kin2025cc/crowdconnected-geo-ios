@@ -7,9 +7,6 @@ import CrowdConnectedShared
 import Foundation
 import Swift
 import _Concurrency
-extension CoreLocation.CLLocationCoordinate2D : Swift.Equatable {
-  public static func == (lhs: CoreLocation.CLLocationCoordinate2D, rhs: CoreLocation.CLLocationCoordinate2D) -> Swift.Bool
-}
 @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @objc public class CrowdConnectedGeo : ObjectiveC.NSObject {
   @objc public static func activate()
   @objc deinit

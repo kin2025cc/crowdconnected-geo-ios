@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4FCCB/rmkmSfn354U3Zod8lhFiE=
+		/aLhkBblIwVctiOSyYEzkSFBM5Q=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		P0b7sRpF1X22HHcb/LJDvIZX++o=
+		V6GwKN4g4fz+cngGeQthyCLy764=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		dEs97aBEmnZFvm1LcBUOPIWCjmI=
+		OkipHgKpOg2hnU2D6ckCll6ThJI=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64.swiftdoc</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		P0b7sRpF1X22HHcb/LJDvIZX++o=
+		V6GwKN4g4fz+cngGeQthyCLy764=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		dEs97aBEmnZFvm1LcBUOPIWCjmI=
+		OkipHgKpOg2hnU2D6ckCll6ThJI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -72,14 +72,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZe1hJq9nVjwaJntJRcQV32cMAV+PmD5klpWD7S2fuE=
+			MiAH3QWi950VVdAEG31yUL/hdGrbj0G0M3nETIBSYjI=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uq05vlDuFSQd4glY0aXRZJ+S1Efh65BlqVQTyz/GeN8=
+			QGU9onaC8RqNKhZiKkOaz6KYnmRs8kcQ7JpXT9PdNKM=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64.swiftdoc</key>
@@ -93,14 +93,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qZe1hJq9nVjwaJntJRcQV32cMAV+PmD5klpWD7S2fuE=
+			MiAH3QWi950VVdAEG31yUL/hdGrbj0G0M3nETIBSYjI=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uq05vlDuFSQd4glY0aXRZJ+S1Efh65BlqVQTyz/GeN8=
+			QGU9onaC8RqNKhZiKkOaz6KYnmRs8kcQ7JpXT9PdNKM=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
