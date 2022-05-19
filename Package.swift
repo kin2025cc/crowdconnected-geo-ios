@@ -1,4 +1,4 @@
-// swift-tools-version:5.4
+// swift-tools-version:5.6.0
 
 import PackageDescription
 
@@ -13,9 +13,8 @@ let package = Package(
             targets: ["CrowdConnectedGeo"]),
     ],
     dependencies: [
-        .package(name: "CrowdConnectedShared",
-                 url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git",
-                 from: "1.2.1")
+        .package(url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git",
+                 from: "1.3.0")
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedGeo",
