@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedGeo-Swift.h</key>
 		<data>
-		46PCzp/7VCqasGilEMQGBT7a/bY=
+		20rDtM/WFTZHASjUwjj0uWgO9Bs=
 		</data>
 		<key>Headers/CrowdConnectedGeo.h</key>
 		<data>
@@ -14,35 +14,51 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		wJKGuDgJFN1bhrZE8OWjiGEVY5k=
+		6Mo5kqxjHbBJCUC4J59dOWzioCs=
+		</data>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<data>
+		Oy2N8vQb995CQ5WO0bU9QlaMn6Q=
+		</data>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		FDgCMW+awTkx8nPvVsBRcv7gAOY=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		I2SThJPdhO3IzZX0mfn9AW6V25s=
+		GTPtP2Y7WgKCpdOzSo9c2DOXf6s=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		kt+D4q2zOweY5C1re08MK15/2mg=
+		FDgCMW+awTkx8nPvVsBRcv7gAOY=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		2bz6BBaoc+ST0PEgFFHYihIj1/g=
+		fLMHWqlXBXUQSnbDdoXVBTAFXRQ=
+		</data>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<data>
+		Oy2N8vQb995CQ5WO0bU9QlaMn6Q=
+		</data>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<data>
+		Z1K9McUcTgC4IEQtU/j/9890Auc=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		L7zUZujtIl6zXPJhJcTM17TLnLI=
+		I97CFval4osNveldknMCKp7h5MA=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		9JkF/EmGBx8+K6cl1ey7uXxjizo=
+		Z1K9McUcTgC4IEQtU/j/9890Auc=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Ztzo3kQikl8ZebT5nYkLbt68+nI=
+		5Ugy/MH6pueQkqMANFb4onUVLrg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		ny+IgBCmmB9z7i9AZC4NEhPm5KM=
+		PphwYkgPb8lpGkwJPFy6/HzjiPg=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -51,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y0bMMAv61QGXjTrw3eD+Vv/YvF7QUOdj+iAihk1gNVI=
+			NI5LcTCukyjqqOxXxMMcrrvpsqIRTgTdD0JZ4VksRWs=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedGeo.h</key>
@@ -61,53 +77,81 @@
 			Nx6T/ZaRVT/mD1ObVK+qsBO7meHnwu6I2eyfAF/5Tk0=
 			</data>
 		</dict>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ArKtL6USUX9NB9LIFVFcRFt0cW00pTpGS3yR2XIfhCo=
+			</data>
+		</dict>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wjT0MKhffgMpwRho7HVxpo0/uWN+GTQCeqy5wI6eDhQ=
+			</data>
+		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Oz/6T2zydAF1BdVRQLxIpar0I3MbADuQ0EkDHn9M+Js=
+			0f7/QSJKB5m+VSL7nZ15CZH0qS3K/Z45Uvc3CKx2Rg0=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SZ2PAbhc1WXrRsf9vNfRNk7S+kwskVQcQBBlfGKjlG4=
+			wjT0MKhffgMpwRho7HVxpo0/uWN+GTQCeqy5wI6eDhQ=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BgHtdLwWqEzRGam1y33J1Jc8t+MprV7HxZsmY//R6Cg=
+			FcX3UPdaCRxZoOg2w6MfFJsnSquyseunR5/qvuvEM+4=
+			</data>
+		</dict>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ArKtL6USUX9NB9LIFVFcRFt0cW00pTpGS3yR2XIfhCo=
+			</data>
+		</dict>
+		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IoZcClCZMQjTpOypXxihSyRJq4+fD3Cc4ZIqL3RYJn4=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1IlJcdtD72p4r1/FzFUxYKESr9droSTEOJm9ZRTQpjU=
+			JPqNB/9rQHzICIlsxcCs2rx4WzAiJ/nzsZitB+Gsvrk=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CEzCqnoVN0noZcmj017e6xcDQ8PVtfwvxjx7GPugAII=
+			IoZcClCZMQjTpOypXxihSyRJq4+fD3Cc4ZIqL3RYJn4=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gL8c7qfgGIu4GVplVVZY7OG+zw5oPBFwqhijmAueOu0=
+			BBZcxHfnelQHs9CQrVAHsJfua+S7VS71rsaChFBfhrs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U5qmQFBK/cC8UWj4ezSF63upQownptFd5ry7EbEqk34=
+			ou2l/tCPcwsT+iWb8bi6ZJ8g9a22GTaJLzpOhWLGgxE=
 			</data>
 		</dict>
 	</dict>
