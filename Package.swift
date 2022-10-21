@@ -14,7 +14,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/crowdconnected/crowdconnected-shared-ios.git",
-                 from: "1.3.2")
+                 from: "1.4.0")
     ],
     targets: [
         .binaryTarget(name: "CrowdConnectedGeo",
