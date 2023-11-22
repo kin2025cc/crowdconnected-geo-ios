@@ -395,14 +395,14 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/StateMonitor\/GeoStateMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 6801,
+      "offset": 6719,
       "length": 6,
       "value": "\"rule\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/StateMonitor\/GeoStateMonitor.swift",
       "kind": "StringLiteral",
-      "offset": 7202,
+      "offset": 7120,
       "length": 14,
       "value": "\"trackingMode\""
     },
