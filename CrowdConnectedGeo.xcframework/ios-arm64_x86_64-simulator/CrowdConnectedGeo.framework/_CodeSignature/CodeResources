@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedGeo-Swift.h</key>
 		<data>
-		EUhbuW/YQFOUMWK9gItcdfxuhT4=
+		3pD5bwbwSquxH5y1TLSuWAU+mUI=
 		</data>
 		<key>Headers/CrowdConnectedGeo.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		eFPA9QqAV9V0WGndAe3a4IqPm9g=
+		iIjyzI48259U3RjqHuvjcZLwCz0=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		P1GRIrZfvjUdCx0Y/zOZ1fwQEXc=
+		GcRAEDmL66WB6lnky7gqyG+wkxQ=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		wFm1KrdkoR8IkyV33b0Wdao4e0A=
+		xQKGvoMZpqcppjbselnUPKdshBU=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		P1GRIrZfvjUdCx0Y/zOZ1fwQEXc=
+		GcRAEDmL66WB6lnky7gqyG+wkxQ=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		CAwuZPzu6tR0A3VHaOXvDwSbvDs=
+		UCo87l+jJnYZh+FdjEKNHsFpIBA=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -42,19 +42,19 @@
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		nM9rQ6O6pIKmZegpONsDsiY40NQ=
+		TbSIi9juB+UeRWh1IqGSHZ4T5Ig=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		RN5FuBZ8BdEGZI6mPcZKfcrKzWM=
+		IEzgqY/0lqVnwwFXwNCQB8il/Jo=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		nM9rQ6O6pIKmZegpONsDsiY40NQ=
+		TbSIi9juB+UeRWh1IqGSHZ4T5Ig=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		EMQDqDpOkxG/VuUR+kO/P64TV18=
+		UDl7jdA7l2c17hO/C1AUIzCQ9tI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -67,7 +67,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			p9D6zDO0ePP6Z8ERtv4r73k0prLq1ctRANCN3QTujMM=
+			FH4U01oSzxnFLRWYick5WvovAxzu3i+RhHd0o61VQFE=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedGeo.h</key>
@@ -88,28 +88,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6MQ0QAk4jeeb49Pm16Yal+lHfE8vs8N1rGCZ0DHDNU=
+			EQouMG8/um7wS0JoVGSzjSgp2AlUsn+Ui9RVnc0cH14=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3AKJPltVc7L9dYnVyeYkhPykiB+TxgD/GCbNqMN6F4U=
+			63kXhw6BtTPrrASnxvx7aWuDZXfF/w+NMfQlNL+88To=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			v6MQ0QAk4jeeb49Pm16Yal+lHfE8vs8N1rGCZ0DHDNU=
+			EQouMG8/um7wS0JoVGSzjSgp2AlUsn+Ui9RVnc0cH14=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b3oV7KHPvVduMEOYQ33Dzf45gbeauM3/nGztfXQfYHc=
+			C+CduGD29alPNDtc4xkkY0TFdq9g+iVFiXsEcUVIjeg=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -123,28 +123,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZ7+6FxvIPJ5QzVBw4C5yfR86zKT3KMqFfEGt9DWY+Y=
+			qGT4BooMKhk+pX0efoQQk7yGDR16nervQDjpsv/XYS0=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			m1fvPbblkMafEjzXd4OWcLxzxGFWZJreLzNOxwMkNFk=
+			JMpudbOiuz6gH/sWzy0NHvL2iOIY12hwLidCZcFKacQ=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZ7+6FxvIPJ5QzVBw4C5yfR86zKT3KMqFfEGt9DWY+Y=
+			qGT4BooMKhk+pX0efoQQk7yGDR16nervQDjpsv/XYS0=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L9GdyyInrXZEVXcGv+wLACH8++Gcp9O1MPL/bOCq4Ck=
+			DLN1DrqF1Zrt9ln3O1EZ5ocb9m9ycH9eq4TLC5un7NQ=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

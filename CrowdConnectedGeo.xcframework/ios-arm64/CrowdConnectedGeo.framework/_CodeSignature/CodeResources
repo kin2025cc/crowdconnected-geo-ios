@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/CrowdConnectedGeo-Swift.h</key>
 		<data>
-		cTXa3oyr/us6mMdSvkeLMIJcYQo=
+		R72vlFXvNo5geggr26Wby+B591o=
 		</data>
 		<key>Headers/CrowdConnectedGeo.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		n6tqWrqyer7CMBm4Gnk7gyd60vY=
+		mw7CltZSdtjtGNpJ9szePzsUbNU=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		WmS2UTn83XOZbyJLSdKAT3baEqE=
+		VCW4/91fzSHhjM3aOMxgpjgxqH8=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		+40tdKY83kPCjMAJSFsIw5tGtVM=
+		YRkxofpURVAAn3Dkj1W9gA256mc=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		WmS2UTn83XOZbyJLSdKAT3baEqE=
+		VCW4/91fzSHhjM3aOMxgpjgxqH8=
 		</data>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Nl7Y2XLCb+/oXY6WCLvNacIHOHI=
+		frs3mHEimCPcsjuqtoq88bR4Nl8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eUkdu133SVCLgRT19U+tMYJsumbnIR+92YLHX8/KJz0=
+			FGXT2LyExNCJp5qREPNbxpsjSfV3L3cGL91+QRAW3JU=
 			</data>
 		</dict>
 		<key>Headers/CrowdConnectedGeo.h</key>
@@ -68,28 +68,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2QsBdy1VW3j/iJU+Oe3IxrYeOwtK1ASLnY58GG0F4Yg=
+			xfpGxCKkanuzjLz4bRT6hX4aIyH5L+HznEj4wHoE750=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			u2sbXIshapGqRY3rXDRoikHJoHV0GK35R1l4HbQ3W2E=
+			aDRpPHpNFdkrEEhI4nUve7fJHVp4Gb7+SyGoA1dMYYY=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2QsBdy1VW3j/iJU+Oe3IxrYeOwtK1ASLnY58GG0F4Yg=
+			xfpGxCKkanuzjLz4bRT6hX4aIyH5L+HznEj4wHoE750=
 			</data>
 		</dict>
 		<key>Modules/CrowdConnectedGeo.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GYAGMn4ZMJCxVlvtoE0S2u4+xpT5Cc528FhUkM4Wzt0=
+			Z/TiLWCXZqXqpxHRdY9HZLUywCJ9FIfkr4k0NEXxxiA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
