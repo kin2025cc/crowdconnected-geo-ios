@@ -563,84 +563,91 @@
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "StringLiteral",
-      "offset": 1518,
+      "offset": 1571,
+      "length": 7,
+      "value": "\",,,,,\""
+    },
+    {
+      "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
+      "kind": "StringLiteral",
+      "offset": 1594,
       "length": 35,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "StringLiteral",
-      "offset": 1551,
+      "offset": 1627,
       "length": 1,
       "value": "\",\""
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1739,
+      "offset": 1826,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1755,
+      "offset": 1842,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1780,
+      "offset": 1867,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1816,
+      "offset": 1903,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1840,
+      "offset": 1927,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 1878,
+      "offset": 1965,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "IntegerLiteral",
-      "offset": 2055,
+      "offset": 2142,
       "length": 7,
       "value": "6378137"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "FloatLiteral",
-      "offset": 2088,
+      "offset": 2175,
       "length": 16,
       "value": "6356752.31424518"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "FloatLiteral",
-      "offset": 2158,
+      "offset": 2245,
       "length": 5,
       "value": "180.0"
     },
     {
       "filePath": "\/Users\/tcode\/CC\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/PositionComposer.swift",
       "kind": "FloatLiteral",
-      "offset": 2229,
+      "offset": 2316,
       "length": 5,
       "value": "180.0"
     },
