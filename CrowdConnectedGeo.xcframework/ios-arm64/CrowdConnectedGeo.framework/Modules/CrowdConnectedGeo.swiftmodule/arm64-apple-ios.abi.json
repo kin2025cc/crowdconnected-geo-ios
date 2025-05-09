@@ -16,6 +16,84 @@
       },
       {
         "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo"
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo"
+      },
+      {
+        "kind": "Import",
+        "name": "CrowdConnectedShared",
+        "printedName": "CrowdConnectedShared",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "CrowdConnectedShared",
         "printedName": "CrowdConnectedShared",
         "declKind": "Import",
@@ -74,67 +152,6 @@
       },
       {
         "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo"
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo"
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -176,6 +193,13 @@
       },
       {
         "kind": "Import",
+        "name": "CoreLocation",
+        "printedName": "CoreLocation",
+        "declKind": "Import",
+        "moduleName": "CrowdConnectedGeo"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -188,13 +212,6 @@
         "kind": "Import",
         "name": "CrowdConnectedShared",
         "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreLocation",
-        "printedName": "CoreLocation",
         "declKind": "Import",
         "moduleName": "CrowdConnectedGeo"
       },
@@ -321,28 +338,53 @@
         "printedName": "CoreLocation",
         "declKind": "Import",
         "moduleName": "CrowdConnectedGeo"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CrowdConnectedShared",
-        "printedName": "CrowdConnectedShared",
-        "declKind": "Import",
-        "moduleName": "CrowdConnectedGeo"
       }
     ],
     "json_format_version": 8
   },
   "ConstValues": [
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1643,
+      "length": 7,
+      "value": "\"max_x\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1675,
+      "length": 7,
+      "value": "\"min_y\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1643,
+      "length": 7,
+      "value": "\"max_x\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "StringLiteral",
+      "offset": 1675,
+      "length": 7,
+      "value": "\"min_y\""
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "FloatLiteral",
+      "offset": 7350,
+      "length": 3,
+      "value": "1.0"
+    },
+    {
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
+      "kind": "FloatLiteral",
+      "offset": 7395,
+      "length": 3,
+      "value": "1.0"
+    },
     {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/SurfacesProvider.swift",
       "kind": "Array",
@@ -356,48 +398,6 @@
       "offset": 179,
       "length": 1,
       "value": "0"
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1643,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1675,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1643,
-      "length": 7,
-      "value": "\"max_x\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "StringLiteral",
-      "offset": 1675,
-      "length": 7,
-      "value": "\"min_y\""
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7350,
-      "length": 3,
-      "value": "1.0"
-    },
-    {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Surfaces.swift",
-      "kind": "FloatLiteral",
-      "offset": 7395,
-      "length": 3,
-      "value": "1.0"
     },
     {
       "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Observer\/LocationObserver.swift",
@@ -484,42 +484,42 @@
       "value": "\"CrowdConnectedGeo.LocationObserver\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1169,
       "length": 8,
       "value": "\"zoneID\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1251,
       "length": 10,
       "value": "\"radius_1\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1291,
       "length": 10,
       "value": "\"radius_2\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1169,
       "length": 8,
       "value": "\"zoneID\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1251,
       "length": 10,
       "value": "\"radius_1\""
     },
     {
-      "filePath": "\/Users\/ralfkernchen\/ColocatorV3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
+      "filePath": "\/Users\/ralfkernchen\/Colocatorv3iOS\/CrowdConnectedGeo\/CrowdConnectedGeo\/Models\/Zones.swift",
       "kind": "StringLiteral",
       "offset": 1291,
       "length": 10,
